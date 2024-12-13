@@ -1,0 +1,97 @@
+
+em{
+     color:#a5b4fc;
+     font-style: normal;
+}
+
+
+h2 {
+     text-align: justify;
+     color: #F9F8FF;
+
+} 
+
+
+div{
+     text-align: left;
+     background-color: white;
+     color: #242424;
+}
+
+h1{
+     font-family: "Montserrat", sans-serif;
+     color: #a5b4fc;
+     font-size: 3.5em;
+     
+}
+
+p{
+     font-size: 1.1em;
+     font-family: "Manrope", sans-serif;
+     color: #F9F8FF;
+}
+
+ul{
+     font-size:1em ;
+     font-family: "Manrope", sans-serif;
+     color: #F9F8FF;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    font-size:1em;
+    font-family: "Manrope", sans-serif;
+    padding-bottom: 2px;
+}
+
+body{
+     background-color: #1F2039;
+}
+
+.projet a{
+     font-family: "Manrope", sans-serif;
+     color: white;
+     background-color: #a5b4fc;
+     border-radius: 50px;
+}
+
+.projet{
+     background-color: #1F2039;
+     
+}
+
+.description{
+     border-right: 1px solid #8e86b5;
+     border-bottom: 1px solid #8e86b5;
+     background-color: #1F2039;
+}
+
+a:hover{
+     text-decoration: underline;
+}
+
+.projet a:hover{
+    background: linear-gradient(90deg, #696484, #8788BA); 
+    text-decoration: none;
+}
+
+footer{
+     text-align: left;
+     background-color: white;
+     color: #242424;
+}
+
+header{
+     text-align: left;
+     background-color: white;
+     color: #242424;
+}
+
+header :hover{
+     opacity: 0.5;
+}
+
+footer :hover{
+     opacity: 0.5;
+}
